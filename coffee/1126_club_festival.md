@@ -16,7 +16,7 @@ PhiloCoffee Club's Café and Cultural Philosophy Insights Corner
   - 这些问题有关咖啡的风味，口感，制作方法等方面，比如意式咖啡和手冲咖啡的不同，但是显然好多人连这个问题都不甚了解。
 
 
-2. **Cultural Philosophy Insights Corner:**
+2. **哲学咖啡快问快答**
 - **Objective:** 普及哲学相关概念，以及对校区学生的哲学功底进行一次摸底（：bushi
 - **Activity:** 
   - 我们准备了横贯古今，从东至西的关于哲学的问题，也作为问答环节的一部分，并给大家普及哲学相关基本概念，虽然这些入门级的问题对于哲学小白来说有点不友好（手动滑稽）。
@@ -35,9 +35,9 @@ PhiloCoffee Club's Café and Cultural Philosophy Insights Corner
 
 
 
-3. **Tarot Divination Part:**
-- **Activity:** 我们的社长Tony开设了塔罗占卜活动，显然这个活动很吸引人。因为校内似乎没有什么研究神秘学的人，更没有什么能熟练运用GPT占卜的人。虽然大部分顾客们都想占爱情，但是这有违Tony的原则，于是占的最多的方面就是学业啦~
-- P.S. （虽然有一位哲咖社内成员让Tony破例占了一次爱情，但是他却抽到是是十剑穿身T_T）
+3.**Cultural Philosophy Insights Corner:**
+- **Activity:** 出于对文化哲学的考虑，和时尚有趣的哲学交流，社长Tony开设了塔罗占卜活动，显然这个活动很吸引人。因为校内似乎没有什么研究神秘学的人，更没有什么能熟练运用GPT占卜的人。虽然大部分顾客们都想占爱情，但是这有违Tony的原则，于是占的最多的方面就是学业啦~
+<!-- - P.S. （虽然有一位哲咖社内成员让Tony破例占了一次爱情，但是他却抽到是是十剑穿身T_T） -->
 
 
 
