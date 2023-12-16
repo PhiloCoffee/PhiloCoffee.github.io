@@ -49,6 +49,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 
 ### coffee /咖啡部
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
+- [1126 社团文化节](coffee/1126_club_festival.md): 我们社团参加了海宁校区今年的社团文化节，为大家提供免费冷萃和塔罗占卜服务~
 #### coffeeshop tour / 探店纪实
 - [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 - [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
