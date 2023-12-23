@@ -44,7 +44,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
-- [Suzeme](1006_Suzume): Poita Club的观影活动，一同欣赏顶级音画效果
+- [Suzeme](1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
 - [Tenet信条](1022_Tenet_Review.md): 冷萃咖啡，卷积和诺兰的科幻狂想作品。
 
 ### coffee /咖啡部
