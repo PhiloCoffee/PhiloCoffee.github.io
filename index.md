@@ -42,7 +42,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 
 ### phiosophy / 哲学部
 - [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
-### Movie Night / 电影夜
+#### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
 - [Suzeme](1006_Suzume): Poita Club的观影活动，一同欣赏顶级音画效果
 - [Tenet信条](1022_Tenet_Review.md): 冷萃咖啡，卷积和诺兰的科幻狂想作品。
@@ -50,6 +50,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 ### coffee /咖啡部
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
 - [1126 社团文化节](coffee/1126_club_festival.md): 我们社团参加了海宁校区今年的社团文化节，为大家提供免费冷萃和塔罗占卜服务~
+- [1220 考研加油挂耳活动与咖啡部会员卡](coffee/1220_Coffee%20Card.md): 为了支持正在努力备考的同学们，我们联合组织了一次考研挂耳咖啡赠送活动。这次活动旨在为正在图书馆奋斗的朋友们提供必要的咖啡支持。
 #### coffeeshop tour / 探店纪实
 - [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 - [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
