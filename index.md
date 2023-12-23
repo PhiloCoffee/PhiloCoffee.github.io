@@ -57,8 +57,8 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [ALL-IN 横头街店-海宁](coffee/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
 ### tech / 技术部
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
-- [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1029_DALLE3_performance.md): TODO， 一个展示SOTA 文生图技术的展示部分。
-- [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md): TODO, 分析了一些主流的免费邮件分发技术。 
+- [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): T一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
+- [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。 
 ## Our Activities / 我们的活动
 
 **关键字：咖啡，哲学，社团，中西融合，国际交流，学术入门，文化沙龙**
