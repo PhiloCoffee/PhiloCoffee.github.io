@@ -1,6 +1,6 @@
 # PhiloCoffee Club in X-Verge Coffee, Shanghai
 - Tony Wang & 滋滋
-- 02/04/2024
+- 02/07/2024
 
 
 <!-- 内容大纲： 
@@ -11,7 +11,7 @@
  4. 自己的昵称，还有所属的大学/专业
      以上中英文皆可 -->
 
->地点：上海市虹口区多伦路52号X-Verge咖啡店
+- **地点**：上海市虹口区多伦路52号X-Verge咖啡店
 
 这是我们“哲咖+”的第一站——上海。多伦路是上海不可多得的老街区，这里还是百年前的文化重地。虽然只有500余米，但一路行来却看到了不少的历史名人雕像。显然，这里早已不是文化中心，而是商业化的步行街。Unfortunately，似乎只有步行街的形式才能发挥出它最后的价值。但是这难道不是最有效的使它被铭记的方法吗？Anyway，我们早早的踏进了X-Verge的店门。
 
@@ -41,19 +41,24 @@
 >
 <img src="./0202_x_verge.assets/微信图片_202402042305581.jpg" alt="图片" style="width: 50%; height: auto;">
 
-## ZJUI ECE Holly
+## ZJUI Senior ECE Holly
 
-灼烧后的肉桂散发出温暖厚重的香料味（茶色碧玺），柚子清酒与冷萃混合出柑橘调的轻盈淡雅（衡山路之夜），抹茶奶盖一如既往的苦香的绿（滨江绿地）……因此被安利了甜牙齿的伯爵红茶酱等一系列！等开学后可以试试自制特调。
+灼烧后的肉桂散发出温暖厚重的香料味**（茶色碧玺）**，柚子清酒与冷萃混合出柑橘调的轻盈淡雅**（衡山路之夜）**，抹茶奶盖一如既往的苦香的绿**（滨江绿地）**……因此被安利了甜牙齿的伯爵红茶酱等一系列！等开学后可以试试自制特调。
 
 珠宝课程中，最有趣的莫过于黄金镀色，幻妙的渐变金属色配上精巧的结构设计，视觉上的轮转十分惊艳。镂空戒指的戒面花纹设计也别出一格，独特的上色效果让背景纹理区别于主体花纹，幽静地闪着碎碎的黑光，衬托着图腾般的主体符号。
 
+## ZJUI Freshman EE Nico Marpaung
+1.I prefer **Toffee Latte** cause I like something a little sweet.combined with some Chinese herbs makes the aroma very fragrant and added with some crunchy topping.
+2. Visiting to museum jewelry, also Improve my general knowledge about what type of gem they used and how they made it. One of those jewelry that I like is The dragonfly they made it very detail and combine with many color(like rainbow colors).
+3. The unforgettable memories I got are when I be able  to gather out with new friend, learnt diversity of coffee which something new for me, shared coffee to each other so we can try a lot of flavour.
 
 
-## ZJUI ME Yang:
+
+## ZJUI Sophomore ME Yang:
 
 我在哲咖社的第一次探店活动，来到的是上海多伦路上的X-Verge咖啡店，高雅现代珠宝与上海风特调咖啡的有机结合，是这家店最大的特点。老板对特调咖啡有着独特的理解，独创诸如十六铺码头，衡山路之夜这类咖啡酒精的混合饮料（非常的好喝），当然这就不提到“上海石库门”这杯特调，以石库门黄酒为基酒，外加盐等调味佐料，复刻《是故意的还是不小心》的表情包。这家店也有自己设计的珠宝首饰，钛金和珍珠的镶嵌体独具风格。
 
-## 车大 moe seu mechanical
+## 车大(SEU) Senior ME moe
 
 ### 最喜欢的饮品
 <img src="./0202_x_verge.assets/image-20240203233426882.png" alt="图片" style="width: 50%; height: auto;">
@@ -64,11 +69,11 @@
 ### 印象最深刻的瞬间
 <img src="./0202_x_verge.assets/image-20240203233526168.png" alt="图片" style="width: 50%; height: auto;">
 
-## 南航 半个小时  
+## 南航 大四 航空航天 半个小时  
 
 今天最喜欢的咖啡是绿地缤纷，确实如咖啡师所言，每一口的味道都与众不同，一开始的苦到中期的涩到后面的酸甜，富有层次感层层递进。对于珠宝最喜欢的是那个耳饰，鹦鹉螺的设计，每个角度都是不同的色彩，打在珠宝上更显精致，奇妙的是如此复杂的结构重量确实很轻。印象最深刻的瞬间便是咖啡师做咖啡，那种专注的神情。
 
-## 东华大学 明倚天  新能源与光电材料
+## 东华大学 大四 新能源与光电材料  明倚天
 
 2024年2月2日，与诸位朋友一起共聚多伦多路。多伦多路闹中取静，一排海派建筑坐落其中。在朦胧细雨中，海派建筑显得格外迷人，彰显着她的民国风情，又同时蕴藏着新时代的魅力。今天的活动主题地点：X-verge就坐落于此，一个静谧的、优雅的街道。
 
@@ -76,11 +81,9 @@
 
 接着是珠宝参观。首先映入眼帘的是黄金制品，其中尤其以黄金戒指令人注目。黄金戒指是私人定制的，在戒指表面可以刻上客户想要的字母、文字或图案。在经过一番精心雕琢之后，再附上一层哑光黑的镀层，使得戒指不仅拥有黄金的金属光泽，同时又拥有了一份黑色的致雅。戒指的指环连接处亦是可以设计的，可以根据客户需要加上合适的条纹或图案。另外一份impressive的作品是该品牌的新品：一种由“钛金”制备的产品，即通过特殊工艺，使得产品具有绚丽的颜色，再加以钻石和珍珠的衬托，使得整个饰品在不同角度看具有不同的光泽和色彩。同时，该产品为了减免同行的盗版抄袭，提升了工艺难度。该钛金饰品的躯干部分呈丝状，工艺上却需要在细如发丝的钛金表面进行抛光。如此卓越的工艺使得我这位材料学生感到不可思议和感慨。
 
-
-
 不管是咖啡还是珠宝，现在的问题在于，是否我们会愿意为“设计”，为“卓越”，为她的突出的highlight买单。我相信，随着社会的高质量发展，社会整体的富裕程度和审美水平都会提高，届时，我们的市场上会有更多具有“设计感”，拥有设计师“态度”和“风格”的产品出现，并逐渐成为主流。
 
-## ZJUI EE 滋滋
+## ZJUI Freshman EE 滋滋
 
 多伦路有老上海独特的风味，中西结合的建筑，石块铺就的地面。X-verge不同于普通的咖啡店，这之中有一半的店面有关定制珠宝，而且，和我们的“前菜”台湾咖啡馆木结构带来的偏棕的色调和慵懒的的氛围不同，色调偏灰的店面以及棱角分明的吧台和卡座告诉我这里独具一格的现代感。当然，这样的店内装潢也和其另一半珠宝的部分相得益彰。
 
@@ -98,15 +101,17 @@
 
 ## 小记
 
-#### PT1:我们这帮工科生似乎被误会成哲学生了哈哈哈
+#### PS1:我们这帮工科生似乎被误会成哲学生了哈哈哈
 
 <img src="./0202_x_verge.assets/image-20240204121535443.png" alt="图片" style="width: 50%; height: auto;">
 
 
-#### PT2:今天产出了很多表情包啊啊啊
+#### PS2:今天产出了很多表情包啊啊啊
 
-这里就不展示了
+这里就不展示太多了
+
+<img src="./0202_x_verge.assets/meme.png" alt="图片" style="width: 50%; height: auto;">
 
 ## Enjoy coffee together!
-
+哲咖+上海站圆满结束，欢迎下次一起饮咖，探索跨界的魅力！
 <img src="./0202_x_verge.assets/group_photo.jpg" alt="图片" style="width: 70%; height: auto;">
