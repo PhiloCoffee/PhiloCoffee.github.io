@@ -25,7 +25,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 
 我们相信，从康德，伏尔泰和马克思等哲学大师的饮品选择中，我们可以洞察其对知识的追求；而对于校园里的国际友人，咖啡则是他们从小长大的日常习惯，更是一种文化的链接。我们鼓励社团成员参与到各种活动中，如哲学沙龙、咖啡品鉴与制作等，通过这些活动提高他们的实践技能，同时让他们在思考和交流中感受到中西哲学的碰撞与融合。
 
-## Recent Activities / 近期活动
+<!--## Recent Activities / 近期活动
 1. “你读了哪些有关咖啡和哲学的书？" ---在线文笔记录分享
 社团可以定期写书摘推荐的活动彼此之间分享有趣的老书或新书，如果愿意以后可以彼此借书，写写画画，这样回到手中的书就承载着别人的思考，也是一种很好的社交
 
@@ -35,13 +35,14 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 这里是我写的[简单书评](https://github.com/PhiloCoffee/Philo_Chat/issues/5)，别的同学有兴趣也可以在issue里更新自己读的数目
 
 
-投稿要求请见[readme.md](https://github.com/PhiloCoffee/Philo_Chat)
+投稿要求请见[readme.md](https://github.com/PhiloCoffee/Philo_Chat)-->
 
 
 ## Our Articles / 我们的文章
 
 ### phiosophy / 哲学部
 - [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
+- [荐书: 《咖啡与哲学——对话体哲学导论》](philosophy/2023/0910_Book-咖啡与哲学.md): 一本从美国大学生视角出发的哲学入门书。在校园的咖啡馆内，三位不同专业的同学通过对话辩论，探讨了很多有意思而值得深思的议题，很适合哲学初学者阅读。
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
 - [Suzeme](1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
