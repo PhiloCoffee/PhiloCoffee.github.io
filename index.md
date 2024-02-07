@@ -51,6 +51,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
 - [1126 社团文化节](coffee/1126_club_festival.md): 我们社团参加了海宁校区今年的社团文化节，为大家提供免费冷萃和塔罗占卜服务~
 - [1220 考研加油挂耳活动与咖啡部会员卡](coffee/1220_Coffee%20Card.md): 为了支持正在努力备考的同学们，我们联合组织了一次考研挂耳咖啡赠送活动。这次活动旨在为正在图书馆奋斗的朋友们提供必要的咖啡支持。
+- [0202 "哲咖+"第一站——上海](coffee/0202_x_verge.md): 这次我们去了多伦路的X-verge咖啡店——特调、珠宝、以及其折射出的市民生活——
 #### coffeeshop tour / 探店纪实
 - [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 - [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
