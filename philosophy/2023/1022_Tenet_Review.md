@@ -1,8 +1,9 @@
 # 在咖啡的尾韵中品味时间的玄妙
-> 哲咖&Poita 联谊观影活动
-> 李烨轩
-> Oct.22, 2023
-> **Address:** North Teaching Building A105
+- ***哲咖&Poita社***联谊观影活动：《信条》
+- 作者：李烨轩
+- 责任编辑：王杰
+- Oct.22, 2023
+   **Address:** North Teaching Building A105
 ![T0](1022_Tenet_Review.assets/T0.png)
 ![T1](1022_Tenet_Review.assets/T1.jpg)
 ![T2](1022_Tenet_Review.assets/T2.jpg)
