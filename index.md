@@ -46,7 +46,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
 - [Suzeme](1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
-- [Tenet信条](1022_Tenet_Review.md): 冷萃咖啡，卷积和诺兰的科幻狂想作品。
+- [Tenet信条](2023/1022_Tenet_Review.md): 冷萃咖啡，卷积和诺兰的科幻狂想作品。
 
 ### coffee /咖啡部
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
