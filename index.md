@@ -45,7 +45,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [荐书: 《咖啡与哲学——对话体哲学导论》](philosophy/2023/0910_Book-咖啡与哲学.md): 一本从美国大学生视角出发的哲学入门书。在校园的咖啡馆内，三位不同专业的同学通过对话辩论，探讨了很多有意思而值得深思的议题，很适合哲学初学者阅读。
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
-- [Suzeme](1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
+- [Suzeme](philosophy/2023/1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
 - [Tenet信条](philosophy/2023/1022_Tenet_Review.md): 冷萃咖啡，卷积和诺兰的科幻狂想作品。
 
 ### coffee /咖啡部
