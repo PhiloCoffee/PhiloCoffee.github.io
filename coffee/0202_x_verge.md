@@ -107,3 +107,7 @@
 #### PT2:今天产出了很多表情包啊啊啊
 
 这里就不展示了
+
+## Enjoy coffee together!
+
+<img src="./0202_x_verge.assets/group_photo.jpg" alt="图片" style="width: 70%; height: auto;">
