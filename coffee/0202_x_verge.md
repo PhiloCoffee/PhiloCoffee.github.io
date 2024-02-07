@@ -16,30 +16,30 @@
 这是我们“哲咖+”的第一站——上海。多伦路是上海不可多得的老街区，这里还是百年前的文化重地。虽然只有500余米，但一路行来却看到了不少的历史名人雕像。显然，这里早已不是文化中心，而是商业化的步行街。Unfortunately，似乎只有步行街的形式才能发挥出它最后的价值。但是这难道不是最有效的使它被铭记的方法吗？Anyway，我们早早的踏进了X-Verge的店门。
 
 ## Menu
-<img src="./feedback.assets/0206add/jmb.jpg" alt="图片" style="width: 50%; height: auto;">
+<img src="./0202_x_verge.assets/0206add/jmb.jpg" alt="图片" style="width: 50%; height: auto;">
 
 ## Overview
 >取样了一些特调及其postcard
 ### 愚园路小蛋糕
-<img src="./feedback.assets/0206add/xdgcard.jpg" alt="图片" style="width: 53%; height: auto;"> <img src="./feedback.assets/0206add/xdg.jpg" alt="图片" style="width: 30%; height: auto;">
+<img src="./0202_x_verge.assets/0206add/xdgcard.jpg" alt="图片" style="width: 53%; height: auto;"> <img src="./0202_x_verge.assets/0206add/xdg.jpg" alt="图片" style="width: 30%; height: auto;">
 
 ### 十六铺码头
-<img src="./feedback.assets/0206add/slpmt.jpg" alt="图片" style="width: 40%; height: auto;">
+<img src="./0202_x_verge.assets/0206add/slpmt.jpg" alt="图片" style="width: 40%; height: auto;">
 
 ### 滨江绿地
-<img src="./feedback.assets/0206add/bjldcard.jpg" alt="图片" style="width: 50%; height: auto;"><img src="./feedback.assets/cake.jpg" alt="图片" style="width: 28%; height: auto;">
+<img src="./0202_x_verge.assets/0206add/bjldcard.jpg" alt="图片" style="width: 50%; height: auto;"><img src="./0202_x_verge.assets/cake.jpg" alt="图片" style="width: 28%; height: auto;">
 
 >BTW,这些明信片的背面的上海街区画都是主理人请美术学院的学生画的
 >
-<img src="./feedback.assets/0206add/微信图片_202402061232361.jpg" alt="图片" style="width: 50%; height: auto;"> <img src="./feedback.assets/0206add/微信图片_20240206150636.jpg" alt="图片" style="width: 50%; height: auto;">
+<img src="./0202_x_verge.assets/0206add/微信图片_202402061232361.jpg" alt="图片" style="width: 50%; height: auto;"> <img src="./0202_x_verge.assets/0206add/微信图片_20240206150636.jpg" alt="图片" style="width: 50%; height: auto;">
 
 >这个杯子是川美的学生手作，而且是用柴窑烧制的，特别有原始之美 (滋滋：我看看我能不能为社团做一个再烧一个出来^_^)
 >
-<img src="./feedback.assets/cup1.jpg" alt="图片" style="width: 40%; height: auto;">
+<img src="./0202_x_verge.assets/cup1.jpg" alt="图片" style="width: 40%; height: auto;">
 
 >认真烧肉桂的主理人
 >
-<img src="./feedback.assets/微信图片_202402042305581.jpg" alt="图片" style="width: 50%; height: auto;">
+<img src="./0202_x_verge.assets/微信图片_202402042305581.jpg" alt="图片" style="width: 50%; height: auto;">
 
 ## ZJUI ECE Holly
 
@@ -56,13 +56,13 @@
 ## 车大 moe seu mechanical
 
 ### 最喜欢的饮品
-<img src="./feedback.assets/image-20240203233426882.png" alt="图片" style="width: 50%; height: auto;">
+<img src="./0202_x_verge.assets/image-20240203233426882.png" alt="图片" style="width: 50%; height: auto;">
 
 ### 参观珠宝的感受
-<img src="./feedback.assets/image-20240203233501977.png" alt="图片" style="width: 70%; height: auto;">
+<img src="./0202_x_verge.assets/image-20240203233501977.png" alt="图片" style="width: 70%; height: auto;">
 
 ### 印象最深刻的瞬间
-<img src="./feedback.assets/image-20240203233526168.png" alt="图片" style="width: 50%; height: auto;">
+<img src="./0202_x_verge.assets/image-20240203233526168.png" alt="图片" style="width: 50%; height: auto;">
 
 ## 南航 半个小时  
 
@@ -92,7 +92,7 @@
 ### 最喜欢的一杯：衡山路之夜
 层次丰富，恰到好处
 
-<img src="./feedback.assets/hslzy.jpg" alt="图片" style="width: 50%; height: auto;">
+<img src="./0202_x_verge.assets/hslzy.jpg" alt="图片" style="width: 50%; height: auto;">
 <!-- 这里调整图片大小 -->
 
 ### 
@@ -101,7 +101,7 @@
 
 #### PT1:我们这帮工科生似乎被误会成哲学生了哈哈哈
 
-<img src="./feedback.assets/image-20240204121535443.png" alt="图片" style="width: 50%; height: auto;">
+<img src="./0202_x_verge.assets/image-20240204121535443.png" alt="图片" style="width: 50%; height: auto;">
 
 
 #### PT2:今天产出了很多表情包啊啊啊
