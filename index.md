@@ -84,14 +84,42 @@ We are honored to announce that Professor SHAO KAI TSENG, a scholar with profoun
 
 我们很荣幸的宣布，曾绍恺教授, 一位在哲学领域有深厚造诣的学者，已经答应成为我们社团的指导老师。
 
+## Collaboration Link / 合作链接
+
+### 浙江大学学生咖啡社
+
+> 共鉴咖啡文化，探索科研梦想 --- 创始人Cici
+
+浙江大学学生咖啡社是中国最先进的一批咖啡社团，我们不仅是一群共享咖啡热爱的伙伴，更是咖啡文化和科学研究的探索者。自2021年成立以来，我们从几位咖啡友的小圈子发展成为一个拥有超过130名成员的大家庭。我们的使命是普及健康饮用咖啡的知识，发扬中国咖啡文化，并以我们的热情为中国咖啡的发展贡献一份力量。
+
+**活动丰富，学习无限**：我们定期举办咖啡知识分享会、冲煮体验课，探店分享会，以及与生物系统工程与食品科学学院联合的特色活动，让每一位社员都能在咖啡的世界里找到属于自己的位置。
+
+**科研梦想，学术追求**：依托浙大强大的科研背景，我们梦想着通过深入研究食品营养与感官评价，以及跨学科的合作，为咖啡品鉴和学术研究注入新的活力。
+
+**终极梦想，行业领先**：我们致力于成为咖啡行业的信息桥梁，翻译和学习国外的先进报告，深入咖啡产地，理解咖啡的每一个环节，从而为中国咖啡行业的发展提供新的视角和力量。
+
+**加入我们**，在浙江大学咖啡社，一起沉浸在咖啡的香醇之中，探索知识的海洋，共同实现我们的咖啡梦想。SKY IS THE LIMIT.
+
+#### 公众号：求是咖啡社
+
+<img src="./index.assets/image-20240302141806813.png" alt="image-20240302141806813" style="zoom: 25%;" />
+
+
+
+
+
 ## Join Us / 加入我们
 
 Interested in coffee, philosophy, or both? Join us and contribute to an energetic and inclusive community!
 
 我们欢迎所有对咖啡和哲学感兴趣的学生加入我们的社团，无论你的专业是什么，无论你对咖啡和哲学的了解有多少，只要你对学习和分享感兴趣，你就是我们要找的人！
 
-### 填写问卷即可加入：
-https://www.wjx.top/vm/mjNY6AP.aspx
+### 发送邮件即可加入：
+
+如果你想加入我们，或者有任何问题，欢迎通过电子邮件：[jie.20@intl.zju.edu.cn](jie.20@intl.zju.edu.cn)或通过[GitHub issue](https://github.com/PhiloCoffee/PhiloCoffee.github.io/issues)联系我们。
+
+[Contact Us: jie.20@intl.zju.edu.cn](jie.20@intl.zju.edu.cn) 
+
 
 ### 加入我们，你将能:
 1. 亲自尝试半自动意式咖啡机， 从浓缩到拉花，制作专属于你的一杯拿铁。
@@ -110,12 +138,6 @@ We maintain close collaboration with the Zhejiang University Student Coffee Club
 我们与浙大紫金港校区的浙江大学学生咖啡社（ZJU Coffee Club）和UIUC大学的Philosophy Club（哲学社）保持紧密合作，一起探讨咖啡文化的传递，互相学习，共同进步。我们期待每一个加入PhiloCoffee的成员，能共同创造一个充满活力，包容并充满智慧的社团。
 
 
-如果你想加入我们，或者有任何问题，欢迎通过电子邮件：[philocoffeeclub@gmail.com](philocoffeeclub@gmail.com)或通过[GitHub issue](https://github.com/PhiloCoffee/PhiloCoffee.github.io/issues)联系我们。
-
-[Contact Us: philocoffeeclub@gmail.com](philocoffee@gmail.com) 
-
-
-![244d1bc375acecf293b88f223aff5cc](https://github.com/PhiloCoffee/PhiloCoffee.github.io/assets/72364066/eba9444b-40ef-41e2-998b-a56ed016a848)
 
 ---
 “跟随古今哲人，洞悉世界之谜，共享智慧之光。”
