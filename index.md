@@ -43,6 +43,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 ### phiosophy / 哲学部
 - [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
 - [荐书: 《咖啡与哲学——对话体哲学导论》](philosophy/2023/0910_Book-咖啡与哲学.md): 一本从美国大学生视角出发的哲学入门书。在校园的咖啡馆内，三位不同专业的同学通过对话辩论，探讨了很多有意思而值得深思的议题，很适合哲学初学者阅读。
+- [越南咖啡文化沙龙](philosophy/2024/0309_越南咖啡文化沙龙/feedback.md)：
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
 - [Suzeme](philosophy/2023/1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
@@ -51,17 +52,19 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 ### coffee /咖啡部
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
 - [1126 社团文化节](coffee/1126_club_festival.md): 我们社团参加了海宁校区今年的社团文化节，为大家提供免费冷萃和塔罗占卜服务~
-- [1220 考研加油挂耳活动与咖啡部会员卡](coffee/1220_Coffee_Card.md): 为了支持正在努力备考的同学们，我们联合组织了一次考研挂耳咖啡赠送活动。这次活动旨在为正在图书馆奋斗的朋友们提供必要的咖啡支持。
-- [0202 "哲咖+"第一站——上海](coffee/0202_x_verge.md): 这次我们去了多伦路的X-verge咖啡店——特调、珠宝、以及其折射出的市民生活——
+- [2023/12/20 考研加油挂耳活动与咖啡部会员卡](coffee/1220_Coffee_Card.md): 为了支持正在努力备考的同学们，我们联合组织了一次考研挂耳咖啡赠送活动。这次活动旨在为正在图书馆奋斗的朋友们提供必要的咖啡支持。
+- [2024/02/02 "哲咖+"第一站——上海](coffee/0202_x_verge.md): 这次我们去了多伦路的X-verge咖啡店——特调、珠宝、以及其折射出的市民生活——
 #### coffeeshop tour / 探店纪实
 - [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 - [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
 - [2023杭州天目里咖啡节](coffee/1104_2023杭州天目里咖啡节.md): TODO 天目里探店活动！
 - [ALL-IN 横头街店-海宁](coffee/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
+- [越南Namphong咖啡店](coffee/2024/0214_越南Namphong咖啡店.md): 一家很棒的越南独立咖啡馆，在海防附近旅游的朋友可以看看
 ### tech / 技术部
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 - [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): T一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
-- [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。 
+- [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
+  
 ## Our Activities / 我们的活动
 
 **关键字：咖啡，哲学，社团，中西融合，国际交流，学术入门，文化沙龙**
