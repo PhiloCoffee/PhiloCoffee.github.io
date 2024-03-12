@@ -4,7 +4,16 @@
 
 ***PhiloCoffee Club***
 
+### 【咖啡与边界：越南味道中的咖啡文化沙龙】
+
+这是一场哲咖社携模联社携手举办的咖啡分享会沙龙。
+
+想知道咖啡和地缘政治怎么搭边吗？两位社长都曾前往越南，带回了满满的故事和两袋地道的越南咖啡豆。在这个沙龙里，你既能品尝到正宗的精品SOE，又能听到中国和越南之间复杂的地缘政治故事。无需担心前置知识，沙龙旨在让每个人都能轻松加入讨论。
+
+3.9号下午2：30，在三号书院图书阅览室，不管你是咖啡爱好者，还是国际关系小白，都欢迎来品咖啡，聊聊天。
+
 #### Date & Time: 
+
 - 3.10, 2:30 p.m.
 
 #### Venue: 
@@ -58,4 +67,3 @@
 
 ---
 
-> Feel free to adjust the timings and activities based on your preferences and the specific needs of your audience. This outline aims to ensure a balanced mix of coffee tasting, educational content, and interactive discussion, making the event both enjoyable and informative.
