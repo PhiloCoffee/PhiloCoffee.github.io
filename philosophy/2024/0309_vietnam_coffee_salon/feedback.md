@@ -67,9 +67,20 @@
 
 这也是我一直以来对哲咖社存在主义的理解。
 
+<img src="./feedback.assets/image-20240313112252039.png" alt="image-20240313112252039" style="zoom:50%;" />
 
+越南的社员亲切邀请大家前往越南旅游：
 
+> "VIETNAM ---
+> 	Country of wealthy culture and food,warming welcome every come and enjoy the best thing in here."
+>
+> --- Cuong Tran 陈雄强
 
+愿中越友谊长存！
+
+![image-20240313112524665](./feedback.assets/image-20240313112524665.png)
+
+> 胡志明博物馆末尾的留言本上，中国游客的美好祝愿
 
 附：
 
