@@ -45,7 +45,9 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [荐书: 《咖啡与哲学——对话体哲学导论》](philosophy/2023/0910_Book-咖啡与哲学.md): 一本从美国大学生视角出发的哲学入门书。在校园的咖啡馆内，三位不同专业的同学通过对话辩论，探讨了很多有意思而值得深思的议题，很适合哲学初学者阅读。
 - [越南咖啡文化沙龙](philosophy/2024/0309_vietnam_coffee_salon/feedback.md)：咖啡与边界，一场哲咖社+模联社携手举办的咖啡分享会沙龙。
   - [Schedule](philosophy/2024/0309_vietnam_coffee_salon/content.md)：本次沙龙的提纲
-  - 
+- [ “哲咖+”探秘影视飓风：视听美学之旅  ](philosophy/2024/0316_MediaStorm/feedback.md): 本次iCareer企业走访活动从影视艺术的角度出发，探索背后的美学基础。通过实地探访，我们可以知道亿点点不一样这个频道如何克服艰难险阻，创造出一个个百万播放的精彩视频。欢迎一同感受科技与美学的碰撞，探索未知的可能。
+  - [TODO](philosophy/2024/0316_MediaStorm/essay.md): 活动感想
+  - [TODO](philosophy/2024/0316_MediaStorm/video.md)：我们社团推荐的一系列影视飓风的视频
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
 - [Suzeme](philosophy/2023/1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
@@ -55,17 +57,21 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
 - [2023/11/26 社团文化节](coffee/1126_club_festival.md): 我们社团参加了海宁校区今年的社团文化节，为大家提供免费冷萃和塔罗占卜服务~
 - [2023/12/20 考研加油挂耳活动与咖啡部会员卡](coffee/1220_Coffee_Card.md): 为了支持正在努力备考的同学们，我们联合组织了一次考研挂耳咖啡赠送活动。这次活动旨在为正在图书馆奋斗的朋友们提供必要的咖啡支持。
-- [2024/02/02 "哲咖+"第一站——上海](coffee/0202_x_verge.md): 这次我们去了多伦路的X-verge咖啡店——特调、珠宝、以及其折射出的市民生活——
+- [2024/02/02 "哲咖+"第一站——上海](coffee/0202_x_verge.md): 这次我们去了多伦路的X-verge咖啡店——特调、珠宝、以及其折射出的市民精致生活。
+- [2024/02/20 "哲咖+"第二站——深圳](coffee/2024/0220_Shenzhen/feedback.md): 我们前往八卦岭， 了解独立咖啡馆的经营理念和深圳特色的精品咖啡。
+
+
 #### coffeeshop tour / 探店纪实
 - [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 - [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
 - [2023杭州天目里咖啡节](coffee/1104_2023杭州天目里咖啡节.md): TODO 天目里探店活动！
 - [ALL-IN 横头街店-海宁](coffee/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
-- [越南Namphong咖啡店](coffee/2024/0214_vietnam_Namphong_cafe.md): 一家很棒的越南独立咖啡馆，在海防附近旅游的朋友可以看看
+- [越南Namphong咖啡店](coffee/2024/0214_vietnam_Namphong_cafe.md): 一家很棒的越南独立咖啡馆，在海防附近旅游的朋友可以看看~
 ### tech / 技术部
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 - [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): T一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
 - [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
+- [TODO](tech/0420_web_workshop/feedback.md): 几个社团负责人一起线下讲解如何运营社团网站及公众号。
   
 ## Our Activities / 我们的活动
 
@@ -82,7 +88,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - 社团读书会与观影会： 从文化哲学的角度，一同赏析当代艺术与流行电影。
 - 与校园内的多家咖啡厅合作：我们希望与校内的咖啡厅合作，一起开展各种活动，推广咖啡文化。
 
-
+***也欢迎你主动提出自己想参与的有意思的活动！***
 
 ## Our Mentor / 我们的导师
 We are honored to announce that Professor SHAO KAI TSENG, a scholar with profound expertise in the field of philosophy, has agreed to become the mentor of our club.
