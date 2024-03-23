@@ -40,7 +40,7 @@ It's evident they are continuously improving, as showed by a wall full of top cr
 
 ## **QA Section**
 
-1.   ### Q:可以看得出影视剧风制作的效率还是比较高的，同时几个账号都在更新。那么影视剧风制作一期视频大概需要多久?
+### Q:可以看得出影视剧风制作的效率还是比较高的，同时几个账号都在更新。那么影视剧风制作一期视频大概需要多久?
 
 A：我们制作一期普通视频大概是需要25天到35天左右，从策划到实拍到后期差不多这么长时间。普通视频包括商单和非商单这样，也会有一些特殊视频，比如Tim当时拍火山拍了一年，那这是属于特殊视频，是我们比较想做成功的和希望做的。
 
@@ -57,20 +57,6 @@ A: 不会的。我们会提前想好一些有意思的idea然后看有没有甲�
 ### Q: Do you brainstorm ideas specifically for commercial partnerships?
 
 A: No. We brainstorm interesting ideas in advance and see if any clients like them enough to adopt. Clients actually prefer this approach because we not only create videos for them but also provide a propaganda channel. Having a solid fan base on Bilibili means our promotional efforts are quite effective. Unlike the BYD conference videos, we produce those in advance and will not publish on our account.
-
- 
-
- 
-
-### Q:那接商单会变得越来越频繁吗？
-
-A：不会，基本就这个频率了。因为我们知道其实商业化氛围重了那粉丝也不开心，我们其实也是盈利的也不亏钱，没有必要这么频繁。但毕竟大家还是要吃饭的，那接商单还是比较正常的。我们也有一些好的idea没有被甲方看上但自己想做的，我们就会自己做一期。
-
-### Q: Will you take on commercial projects more frequently?
-
-A: No, we'll maintain our current frequency. Over-commercialization can upset fans, and since we are profitable, there's no need for frequent commercial projects. But of course, we all need to make a living, so taking on commercial projects is normal. We also pursue some ideas that clients didn't pick up but we're interested in and make a video with these interest ideas.
-
- 
 
 ### Q：那我们的封面会换吗，我已经看了很多Tim不同的惊讶的表情了，以后封面会固定化吗？
 
