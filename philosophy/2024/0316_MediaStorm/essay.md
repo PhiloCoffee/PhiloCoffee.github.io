@@ -16,15 +16,11 @@
 
 Content marketing has become a trend. Telling a good story has become an almost artisanal ideal pursued by countless creators. But the question arises: What constitutes good content? How do we quantify storytelling ability?—Even with empiricism and a keen sense for content, this remains a difficult question to answer.
 
-不过，在B站拥有四百多万粉丝的影视飓风UP主潘天鸿看来，通过“HKRR理论”，讲好故事从直觉走向了数据量化：快乐属性Happiness，知识属性Knowledge，共鸣属性Resonance，以及节奏感Rhythm，好的内容往往具备其中一项或多项。
+不过，在B站拥有822.7万(@影视飓风) UP主潘天鸿看来，通过**“HKRR理论”**，讲好故事从直觉走向了数据量化：快乐属性Happiness，知识属性Knowledge，共鸣属性Resonance，以及节奏感Rhythm，好的内容往往具备其中一项或多项。
 
 创变者的领导力，在于使命和激发人的能量。从一个人讲好故事，到一群人讲好故事，潘天鸿究竟如何带领影视飓风一步步走向成熟，一步步无限进步的呢？他成功的背后有着什么样的秘诀？在这个阳春三月里，浙江大学海宁国际校区的师生们有幸来到Storm Base拜访参观，一探影视飓风的秘密与魅力。在这个阳春三月里，浙江大学海宁国际校区的师生们有幸来到Storm Base拜访参观，一探影视飓风的秘密与魅力。
 
-However, for Pan Tianhong, a popular content creator on Bilibili with over four million followers, telling a good story has moved from intuition to data quantification through the "HKRR Theory": Happiness, Knowledge, Resonance, and Rhythm. Good content often features one or several of these attributes. From one person telling a good story to a group doing so, how exactly has Pan Tianhong led the team to maturity and continual improvement? What secrets lie behind his success?In this sunny March, students and faculty from Zhejiang University's Haining International Campus were fortunate to visit Storm Base, exploring the secrets and charm of their film production.
-
- 
-
-![img](./essay.assets/clip_image002.jpg)
+However, for Pan Tianhong, a popular content creator on Bilibili with over 8 million followers, telling a good story has moved from intuition to data quantification through the "HKRR Theory": Happiness, Knowledge, Resonance, and Rhythm. Good content often features one or several of these attributes. From one person telling a good story to a group doing so, how exactly has Pan Tianhong led the team to maturity and continual improvement? What secrets lie behind his success?In this sunny March, students and faculty from Zhejiang University's Haining International Campus were fortunate to visit Storm Base, exploring the secrets and charm of their film production.
 
 ### 很开门的台球桌，上班娱乐两不误
 
@@ -38,9 +34,7 @@ It's evident they are continuously improving, as showed by a wall full of top cr
 
 ![img](./essay.assets/clip_image006.jpg)
 
-
-
-
+更多细节，请看：[我们的记录](./feedback.md)
 
 ![img](./essay.assets/clip_image008.jpg)
 ## 感想 / Summary
