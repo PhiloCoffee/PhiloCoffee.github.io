@@ -69,7 +69,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [越南Namphong咖啡店](coffee/2024/0214_vietnam_Namphong_cafe.md): 一家很棒的越南独立咖啡馆，在海防附近旅游的朋友可以看看~
 ### tech / 技术部
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
-- [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): T一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
+- [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): 一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
 - [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
 - [TODO](tech/0420_web_workshop/feedback.md): 几个社团负责人一起线下讲解如何运营社团网站及公众号。
   
