@@ -67,12 +67,11 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [2023杭州天目里咖啡节](coffee/1104_2023杭州天目里咖啡节.md): TODO 天目里探店活动！
 - [ALL-IN 横头街店-海宁](coffee/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
 - [越南Namphong咖啡店](coffee/2024/0214_vietnam_Namphong_cafe.md): 一家很棒的越南独立咖啡馆，在海防附近旅游的朋友可以看看~
-### tech / 技术部
+### Philotech / 技术Workshop
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 - [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): 一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
 - [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
-- [TODO](tech/0420_web_workshop/feedback.md): 几个社团负责人一起线下讲解如何运营社团网站及公众号。
-  
+- [GitHub Copilot & Personal Website](tech/2024/0427_PhiloTech_Copilot/outline.html): 无论你是编程的初学者还是希望利用AI技术优化工作流的老手，这个Workshop都会为你提供提升效率的灵感。
 ## Our Activities / 我们的活动
 
 **关键字：咖啡，哲学，社团，中西融合，国际交流，学术入门，文化沙龙**
@@ -91,9 +90,13 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 ***也欢迎你主动提出自己想参与的有意思的活动！***
 
 ## Our Mentor / 我们的导师
-We are honored to announce that Professor SHAO KAI TSENG, a scholar with profound expertise in the field of philosophy, has agreed to become the mentor of our club.
+We are honored to announce that [Professor SHAO KAI TSENG](https://person.zju.edu.cn/stseng/781641.html), a scholar with profound expertise in the field of philosophy, has agreed to become the mentor of our club.
 
-我们很荣幸的宣布，曾绍恺教授, 一位在哲学领域有深厚造诣的学者，已经答应成为我们社团的指导老师。
+> In the undergraduate courses at the ZJU-UIUC Institute of Haining International Campus, Prof. TSENG has taught **<u>Phil101: Introduction to Philosophy</u>** and **<u>Phil206: Early Modern Philosophy</u>** for many years, enlightening generations of students through general education to delve into the world of philosophy.
+
+我们很荣幸的宣布，[曾绍恺教授](https://person.zju.edu.cn/stseng/781641.html), 一位在哲学领域有深厚造诣的学者，已经答应成为我们社团的指导老师。
+
+> 在海宁国际联合学院ZJU-UIUC联合学院本科生课程， 曾教授多年执教 **<u>Phil101: 哲学概论</u>**  及 **<u>Phil206: 早期现代哲学</u>**，通过通识教育启迪一代代同学深入哲学的世界。
 
 ## Collaboration Link / 合作链接
 
@@ -131,6 +134,12 @@ POITA通过展开丰富的活动，如**参观艺术展、动漫配音大赛、�
 
 #### 公众号：际辉POITA  
 <img src="./poita_art_club_link.png" alt="wechat channel" style="zoom: 50%;" />
+
+
+### 浙江大学学生“哲学+”协会
+
+“哲学+” 成立于2022年6月，是在哲学学院学生会的精心策划下诞生的一个哲学类社团，我们汇聚了来自哲学、经济学、数学等不同学科背景的同学们，希望共同构建了一个集哲学探讨与跨学科交流为一体的思想交流平台。我们致力于营造“热爱思考，勇于发声”的文化氛围、促进不同学科之间的对话和融合。
+
 
 ## Join Us / 加入我们
 
