@@ -46,7 +46,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [越南咖啡文化沙龙](philosophy/2024/0309_vietnam_coffee_salon/feedback.md)：咖啡与边界，一场哲咖社+模联社携手举办的咖啡分享会沙龙。
   - [Schedule](philosophy/2024/0309_vietnam_coffee_salon/content.md)：本次沙龙的提纲
 - [ “哲咖+”探秘影视飓风：视听美学之旅  ](philosophy/2024/0316_MediaStorm/feedback.md): 本次iCareer企业走访活动从影视艺术的角度出发，探索背后的美学基础。通过实地探访，我们可以知道亿点点不一样这个频道如何克服艰难险阻，创造出一个个百万播放的精彩视频。欢迎一同感受科技与美学的碰撞，探索未知的可能。
-  - [TODO](philosophy/2024/0316_MediaStorm/essay.md): 活动感想
+  - [没有人能够拒绝一个好故事](philosophy/2024/0316_MediaStorm/essay.md): 活动感想
   - [TODO](philosophy/2024/0316_MediaStorm/video.md)：我们社团推荐的一系列影视飓风的视频
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
