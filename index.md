@@ -72,7 +72,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): 一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
 - [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
 - [GitHub Copilot & Personal Website](tech/2024/0427_PhiloTech_Copilot/outline.html): 无论你是编程的初学者还是希望利用AI技术优化工作流的老手，这个Workshop都会为你提供提升效率的灵感。
-  - [Schedule](tech/2024/0427_PhiloTech_Copilot/outline.html)：本次Workshop的日程
+  - [Schedule](tech/2024/0427_PhiloTech_Copilot/outline.html): 本次Workshop的日程
 ## Our Activities / 我们的活动
 
 **关键字：咖啡，哲学，社团，中西融合，国际交流，学术入门，文化沙龙**
