@@ -13,7 +13,7 @@
 首先，杰哥带我们欣赏了几位教授的实验室网站，让我们了解到个人学术主页的作用和特点。随后他以 philocoffee.github.io的前端代码为例，为我们展示了如何用GitHub创建个人或社团主页。
 
 首先，使用markdown语法就可以简单的构建index.md 用于渲染
-- 如何使用markdown语法：https://www.markdownguide.org/basic-syntax/
+- [如何使用markdown语法](https://www.markdownguide.org/basic-syntax/)
 - [GitHub Pages 快速入门](https://docs.github.com/zh/pages/quickstart)
 - [Acedemic Page Template](https://academicpages.github.io/)
 - 哲咖网站：[构建个人网站的大纲](https://philocoffee.github.io/tech/0807_%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A4%BE%E5%9B%A2%E7%BD%91%E7%AB%99.html)
