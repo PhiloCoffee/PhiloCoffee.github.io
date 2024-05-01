@@ -48,6 +48,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [ “哲咖+”探秘影视飓风：视听美学之旅  ](philosophy/2024/0316_MediaStorm/feedback.md): 本次iCareer企业走访活动从影视艺术的角度出发，探索背后的美学基础。通过实地探访，我们可以知道亿点点不一样这个频道如何克服艰难险阻，创造出一个个百万播放的精彩视频。欢迎一同感受科技与美学的碰撞，探索未知的可能。
   - [没有人能够拒绝一个好故事](philosophy/2024/0316_MediaStorm/essay.md): 活动感想
   - [TODO](philosophy/2024/0316_MediaStorm/video.md)：我们社团推荐的一系列影视飓风的视频
+
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
 - [Suzeme](philosophy/2023/1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
@@ -60,19 +61,20 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [2024/02/02 "哲咖+"第一站——上海](coffee/0202_x_verge.md): 这次我们去了多伦路的X-verge咖啡店——特调、珠宝、以及其折射出的市民精致生活。
 - [2024/02/20 "哲咖+"第二站——深圳](coffee/2024/0220_Shenzhen/feedback.md): 我们前往八卦岭， 了解独立咖啡馆的经营理念和深圳特色的精品咖啡。
 
-
 #### coffeeshop tour / 探店纪实
 - [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 - [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
 - [2023杭州天目里咖啡节](coffee/1104_2023杭州天目里咖啡节.md): TODO 天目里探店活动！
 - [ALL-IN 横头街店-海宁](coffee/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
 - [越南Namphong咖啡店](coffee/2024/0214_vietnam_Namphong_cafe.md): 一家很棒的越南独立咖啡馆，在海防附近旅游的朋友可以看看~
+
 ### Philotech / 技术Workshop
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 - [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): 一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
 - [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
 - [GitHub Copilot & Personal Website](tech/2024/0427_PhiloTech_Copilot/blog.md): 无论你是编程的初学者还是希望利用AI技术优化工作流的老手，这个Workshop都会为你提供提升效率的灵感。
   - [Schedule](tech/2024/0427_PhiloTech_Copilot/outline.html): 本次Workshop的日程
+
 ## Our Activities / 我们的活动
 
 **关键字：咖啡，哲学，社团，中西融合，国际交流，学术入门，文化沙龙**
