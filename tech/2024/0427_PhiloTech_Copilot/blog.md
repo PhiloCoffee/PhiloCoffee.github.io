@@ -5,10 +5,12 @@
 - 作者：William Tsu
 
 - 责任编辑：Tony Wang
+
 ## 引言
 经历了紧张刺激的ECE220 MT2，我们在海纳居举行了主题为"Website&Copilot"的workshop。
 
 ![slide_0th](/tech/2024/0427_PhiloTech_Copilot/blog.assets/slide0.jpeg)
+
 ## 网页搭建
 首先，杰哥带我们欣赏了几位教授的实验室网站，让我们了解到个人学术主页的作用和特点。随后他以 philocoffee.github.io的前端代码为例，为我们展示了如何用GitHub创建个人或社团主页。
 
