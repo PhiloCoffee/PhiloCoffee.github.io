@@ -66,4 +66,5 @@
 附3：[本次活动的slides](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/slides_PhiloTech_Apr27.pdf)
 
 附4：主持人在结束活动时心满意足的闭上了眼睛（不是）
+
 ![死不瞑目](/tech/2024/0427_PhiloTech_Copilot/blog.assets/eyes_closed.jpg)
