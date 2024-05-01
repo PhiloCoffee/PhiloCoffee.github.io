@@ -54,7 +54,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [Suzeme](philosophy/2023/1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
 - [Tenet信条](philosophy/2023/1022_Tenet_Review.md): 冷萃咖啡，卷积和诺兰的科幻狂想作品。
 
-### coffee /咖啡部
+### coffee / 咖啡部
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
 - [2023/11/26 社团文化节](coffee/1126_club_festival.md): 我们社团参加了海宁校区今年的社团文化节，为大家提供免费冷萃和塔罗占卜服务~
 - [2023/12/20 考研加油挂耳活动与咖啡部会员卡](coffee/1220_Coffee_Card.md): 为了支持正在努力备考的同学们，我们联合组织了一次考研挂耳咖啡赠送活动。这次活动旨在为正在图书馆奋斗的朋友们提供必要的咖啡支持。
@@ -68,12 +68,17 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [ALL-IN 横头街店-海宁](coffee/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
 - [越南Namphong咖啡店](coffee/2024/0214_vietnam_Namphong_cafe.md): 一家很棒的越南独立咖啡馆，在海防附近旅游的朋友可以看看~
 
-### Philotech / 技术Workshop
+### tech / 技术部
+
+#### PhiloTech Workshop
+
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 - [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): 一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
 - [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
 - [GitHub Copilot & Personal Website](tech/2024/0427_PhiloTech_Copilot/blog.md): 无论你是编程的初学者还是希望利用AI技术优化工作流的老手，这个Workshop都会为你提供提升效率的灵感。
   - [Schedule](tech/2024/0427_PhiloTech_Copilot/outline.html): 本次Workshop的日程
+
+
 
 ## Our Activities / 我们的活动
 
