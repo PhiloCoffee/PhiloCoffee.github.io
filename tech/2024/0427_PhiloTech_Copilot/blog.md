@@ -5,26 +5,43 @@
 - 作者：William Tsu
 
 - 责任编辑：Tony Wang
+## 引言
+经历了紧张刺激的ECE220 MT2，我们在海纳居举行了主题为"Website&Copilot"的workshop。
 
-经历了紧张刺激的ECE220 MT2，我们在海纳居举行了主题为"Website&Copilot"的技术沙龙。
-
-![slide_0th](https://github.com/PhiloCoffee/Club_Kernel/blob/main/Event/2024/0427_PhiloTech%20Workshop/blog.assets/page%201.jpeg)
-
+![slide_0th](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/slide0.jpeg)
+## 网页搭建
 首先，杰哥带我们欣赏了几位教授的实验室网站，让我们了解到个人学术主页的作用和特点。随后他以 philocoffee.github.io的前端代码为例，为我们展示了如何用GitHub创建个人或社团主页。
 
-![为数不多能看的图片](https://github.com/PhiloCoffee/Club_Kernel/blob/main/Event/2024/0427_PhiloTech%20Workshop/blog.assets/图片1.jpg)
+首先，使用markdown语法就可以简单的构建index.md 用于渲染
+- 如何使用markdown语法：https://www.markdownguide.org/basic-syntax/
+- [GitHub Pages 快速入门](https://docs.github.com/zh/pages/quickstart)
+- [Acedemic Page Template](https://academicpages.github.io/)
+- 哲咖网站：[构建个人网站的大纲](https://philocoffee.github.io/tech/0807_%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A4%BE%E5%9B%A2%E7%BD%91%E7%AB%99.html)
+  
+之后，杰哥以万煜翔同学为例，现场花5分钟
+![为数不多能看的图片](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/salon.jpg)
 
-> 图片作者：原本被认为只能像Steve Lumetta “深度参与” 220教学一样参加本次活动，但实际上莅临现场的王导
+> 图片作者：王导，与Steve Lumetta “深度参与” 220教学一样参加本次活动，甚至莅临现场
 
-作为一名狂热的软件爱好者，林昊翔同学分享了自己在VS Code中使用GitHub Copilot的心得体会。他将自己从零开始搭建个人网页的经历娓娓道来，展示了Copilot 在编程实践中如何帮助他快速上手学习别人的代码。他总结自己使用Copilot的几点心得，并强调了将问题进行“systematic decomposition”的重要性：
+## Github Copilot 使用心得
 
-> 1. 在Copilot生成的代码中，只采用自己看得懂的
-> 2. Copilot无法访问各种代码文件，自动补全代码时只能看到目前屏幕范围内的代码，使用者可能需要主动将相关代码粘贴进聊天框
-> 3. 作为一个文本模型，Copilot并不擅长涉及“Visualization”的代码
+作为一名狂热的代码爱好者，林昊翔同学分享了自己在VS Code中使用GitHub Copilot的心得体会。他将自己从零开始搭建个人网页的经历娓娓道来，展示了Copilot 在编程实践中如何帮助他快速上手学习别人的代码。他总结自己使用Copilot的几点心得，并强调了将问题进行“systematic decomposition”的重要性：
 
-## ![SteveLin](https://github.com/PhiloCoffee/Club_Kernel/blob/main/Event/2024/0427_PhiloTech%20Workshop/blog.assets/WechatIMG1757.jpg)
+1. 在Copilot生成的代码中，只采用自己看得懂的
+2. Copilot无法访问各种代码文件，自动补全代码时只能看到目前屏幕范围内的代码，使用者可能需要主动将相关代码粘贴进聊天框
+3. 作为一个文本模型，Copilot并不擅长涉及“Visualization”的代码
+
+## ![SteveLin](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/SteveLin.jpg)
+
+> [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+> "prompt engineering 一大原则：与AI相处，需要在自己足以判断的知识范围内去prompt。当你有足够的判断能力时，你才能用好AI工具" --- 杰哥
+
+## 国产LLMs平台使用体验分享 暨 Github Copilot 申请方法
 
 万煜翔同学为我们分享自己使用Kimi/Coze等国产大模型产品/平台的经验，介绍如何使用AI辅助复习ECE220考试，以及RHET写作中支持非母语者的思考方式。徐纬立同学介绍了如何通过INTL ID免费解锁GitHub Copilot，强调了在申请GitHub Student Benifit过程中完善GitHub profile的重要性。
+
+- Kimi: 中文、长文本、多模态、无需VPN
+- Coze: 高度定制化、大模型界的App Store， Ethical Usages
 
 ## 总结：
 
@@ -46,8 +63,7 @@
 
 附2：[TODO如何通过教育邮箱免费解锁GitHub Copilot](www.google.com)
 
-附3：[本次活动的slides](https://github.com/PhiloCoffee/Club_Kernel/blob/main/Event/2024/0427_PhiloTech%20Workshop/blog.assets/slides_PhiloTech_Apr27.pdf)
+附3：[本次活动的slides](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/slides_PhiloTech_Apr27.pdf)
 
-附4：被锐评“死不瞑目”的主持人
-
-![死不瞑目](https://github.com/PhiloCoffee/Club_Kernel/blob/main/Event/2024/0427_PhiloTech%20Workshop/blog.assets/死不瞑目.jpg)
+附4：主持人在结束活动时心满意足的闭上了眼睛（不是）
+![死不瞑目](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/eyes_closed.jpg)
