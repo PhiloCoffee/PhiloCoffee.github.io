@@ -19,7 +19,7 @@
 - 哲咖网站：[构建个人网站的大纲](https://philocoffee.github.io/tech/0807_%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A4%BE%E5%9B%A2%E7%BD%91%E7%AB%99.html)
   
 之后，杰哥以万煜翔同学为例，现场花5分钟
-![为数不多能看的图片](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/salon.jpg)
+![为数不多能看的图片](/tech/2024/0427_PhiloTech_Copilot/blog.assets/salon.jpg)
 
 > 图片作者：王导，与Steve Lumetta “深度参与” 220教学一样参加本次活动，甚至莅临现场
 
@@ -31,7 +31,7 @@
 2. Copilot无法访问各种代码文件，自动补全代码时只能看到目前屏幕范围内的代码，使用者可能需要主动将相关代码粘贴进聊天框
 3. 作为一个文本模型，Copilot并不擅长涉及“Visualization”的代码
 
-## ![SteveLin](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/SteveLin.jpg)
+## ![SteveLin](/tech/2024/0427_PhiloTech_Copilot/blog.assets/SteveLin.jpg)
 
 > [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 > "prompt engineering 一大原则：与AI相处，需要在自己足以判断的知识范围内去prompt。当你有足够的判断能力时，你才能用好AI工具" --- 杰哥
@@ -66,4 +66,4 @@
 附3：[本次活动的slides](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/slides_PhiloTech_Apr27.pdf)
 
 附4：主持人在结束活动时心满意足的闭上了眼睛（不是）
-![死不瞑目](https://github.com/PhiloCoffee/PhiloCoffee.github.io/blob/main/tech/2024/0427_PhiloTech_Copilot/blog.assets/eyes_closed.jpg)
+![死不瞑目](/tech/2024/0427_PhiloTech_Copilot/blog.assets/eyes_closed.jpg)
