@@ -11,17 +11,17 @@
 - **Special Guest:** 
 
     - **Dr. Wei Wang**,  at ZJU-UIUC Institute, ZJUI 2023 Academic Advisor.
-    - **Dr. Khaled Alkilane**,  at ZJU-UIUC Institute, Postdoc Fellow at SURF (Smart Urban Future) Lab with Prof. Lee Der-Horng
-    - **Mr. Ching-yuen Huang** , currently at ZJU-UIUC Institute, Incoming Ph.D. student at Rutgers University.
+    - **Dr. Khaled Alkilane**,  at ZJU-UIUC Institute, Postdoc Fellow at SURF (Smart Urban Future) Lab.
+    - **Mr. Ching-yuen Huang** , currently at ZJU-UIUC Institute, future Ph.D. student at Rutgers University.
     - **Prof. Said Mikki** at ZJU-UIUC Institute.
     
     <img src="./outline.assets/1.webp" alt="1" style="zoom:50%;" />
     
 - **Details:** 
 
-    **PhiloTech** is honored to invite Dr. Wei Wang, a distinguished returnee from the University of Amsterdam with extensive experience in AI and computer vision research. Dr.  Wei Wang is also our beloved advisor for the ZJUI Class of 2023. Additionally, several senior undergraduates and *Ph.D.* students will share their research experiences at this salon. Prof. Said Mikki, interested in the philosophy of mind and AI, will also participate in the salon. On May 5th, at the end of Labor Day, join us to explore how, in this era of rapid AI development, we as university students can position ourselves and grasp the future.
+    **PhiloTech** is honored to invite Dr. Wei Wang, a distinguished returnee from the University of Amsterdam with extensive experience in AI and computer vision research. Dr.  Wei Wang is also our beloved advisor for the ZJUI Class of 2023. Additionally, several senior undergraduates and *Ph.D.* students will share their research experiences at this salon. Prof. Said Mikki, interested in the philosophy of mind and AI, will also participate in the salon. On May 5th, at the end of Labor Day Holiday, join us to explore how, in this era of rapid AI development, we as university students can position ourselves and grasp the future.
 
-> PhiloTech沙龙非常荣幸邀请到王威博士。作为阿姆斯特丹大学归国的杰出学者，王导拥有丰富的人工智能和计算机视觉研究经验。同时，他也是我们亲爱的辅导员，指导ZJUI2023 级同学们的成长。在沙龙还邀请几位资深本科生和博士研究生分享他们的研究经历。届时，对心智哲学和人工智能很有兴趣的Said Mikki教授也会出席参与沙龙。5月5日，在劳动节的尾巴，欢迎大家来一同探讨在人工智能迅速发展的时代，我们作为大学生如何规划未来。 
+> PhiloTech沙龙非常荣幸邀请到王威博士。作为阿姆斯特丹大学归国的杰出学者，王导拥有丰富的人工智能和计算机视觉研究经验。同时，他也是我们亲爱的辅导员，指导ZJUI2023 级同学们的成长。在沙龙还邀请几位资深本科生和博士研究生分享他们的研究经历。届时，对心智哲学和人工智能很有兴趣的Said Mikki教授也会出席参与沙龙。5月5日，在劳动节假期的尾巴，欢迎大家来一同探讨在人工智能迅速发展的时代，我们作为大学生如何规划未来。 
 
 <img src="./outline.assets/image-20240504114252707.png" alt="image-20240504114252707" style="zoom:25%;" />
 
