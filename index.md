@@ -41,43 +41,45 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 ## Our Articles / 我们的文章
 
 ### phiosophy / 哲学部
-- [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
+- [爱咖啡的哲学家](philosophy/2023/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
 - [荐书: 《咖啡与哲学——对话体哲学导论》](philosophy/2023/0910_Book-咖啡与哲学.md): 一本从美国大学生视角出发的哲学入门书。在校园的咖啡馆内，三位不同专业的同学通过对话辩论，探讨了很多有意思而值得深思的议题，很适合哲学初学者阅读。
 - [越南咖啡文化沙龙](philosophy/2024/0309_vietnam_coffee_salon/feedback.md)：咖啡与边界，一场哲咖社+模联社携手举办的咖啡分享会沙龙。
   - [Schedule](philosophy/2024/0309_vietnam_coffee_salon/content.md)：本次沙龙的提纲
 - [ “哲咖+”探秘影视飓风：视听美学之旅  ](philosophy/2024/0316_MediaStorm/feedback.md): 本次iCareer企业走访活动从影视艺术的角度出发，探索背后的美学基础。通过实地探访，我们可以知道亿点点不一样这个频道如何克服艰难险阻，创造出一个个百万播放的精彩视频。欢迎一同感受科技与美学的碰撞，探索未知的可能。
-  - [没有人能够拒绝一个好故事](philosophy/2024/0316_MediaStorm/essay.md): 活动感想
-  - [TODO](philosophy/2024/0316_MediaStorm/video.md)：我们社团推荐的一系列影视飓风的视频
+  - [没有人能够拒绝一个好故事](philosophy/2024/0316_MediaStorm/essay.md): 活动感想。
+- [Phil206 结课感想](philosophy/2024/0528_phil206/survey.md): 早期现代哲学课程同学们的有趣想法：最难与最喜欢的哲学家是谁？
 
 #### Movie Night / 电影夜
-经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
+经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动，欢迎一起看有启发性的动画电影。
 - [Suzeme](philosophy/2023/1006_Suzume.md): Poita Club的观影活动，一同欣赏顶级音画效果
-- [Tenet信条](philosophy/2023/1022_Tenet_Review.md): 冷萃咖啡，卷积和诺兰的科幻狂想作品。
+- [Tenet信条](philosophy/2023/1022_Tenet_Review.md): 一同品味冷萃咖啡，卷积和诺兰的科幻狂想作品。
+- [春宵苦短，少女前進吧！](https://zh.wikipedia.org/zh-tw/春宵苦短，少女前進吧！): 在酒館裡，一群老人相互圍坐取暖，每個人手上掛著的錶鐘，都以飛快的速度前進，只有黑髮*少女*的手錶是慢悠悠的行進著......
 
 ### coffee / 咖啡部
-- [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
-- [2023/11/26 社团文化节](coffee/1126_club_festival.md): 我们社团参加了海宁校区今年的社团文化节，为大家提供免费冷萃和塔罗占卜服务~
-- [2023/12/20 考研加油挂耳活动与咖啡部会员卡](coffee/1220_Coffee_Card.md): 为了支持正在努力备考的同学们，我们联合组织了一次考研挂耳咖啡赠送活动。这次活动旨在为正在图书馆奋斗的朋友们提供必要的咖啡支持。
-- [2024/02/02 "哲咖+"第一站——上海](coffee/0202_x_verge.md): 这次我们去了多伦路的X-verge咖啡店——特调、珠宝、以及其折射出的市民精致生活。
+- [咖啡的历史起源](coffee/2023/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
+- [2023/11/26 社团文化节](coffee/2023/1126_club_festival.md): 我们社团参加了海宁校区今年的社团文化节，为大家提供免费冷萃和塔罗占卜服务~
+- [2023/12/20 考研加油挂耳活动与咖啡部会员卡](coffee/2023/1220_Coffee_Card.md): 为了支持正在努力备考的同学们，我们联合组织了一次考研挂耳咖啡赠送活动。这次活动旨在为正在图书馆奋斗的朋友们提供必要的咖啡支持。
+- [2024/02/02 "哲咖+"第一站——上海](coffee/2023/0202_x_verge.md): 这次我们去了多伦路的X-verge咖啡店——特调、珠宝、以及其折射出市民对生活水平的追求。
 - [2024/02/20 "哲咖+"第二站——深圳](coffee/2024/0220_Shenzhen/feedback.md): 我们前往八卦岭， 了解独立咖啡馆的经营理念和深圳特色的精品咖啡。
+- [20204/06/01 ZJUI毕设展：智能手冲咖啡机](coffee/2024/0601_machine/outline.md): 来看看我们社员做的一个有趣毕设！
 
 #### coffeeshop tour / 探店纪实
 - [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
-- [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
-- [2023杭州天目里咖啡节](coffee/1104_2023杭州天目里咖啡节.md): TODO 天目里探店活动！
-- [ALL-IN 横头街店-海宁](coffee/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
+- [Aristotle-武汉](coffee/2023/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
+- [2023杭州天目里咖啡节](coffee/2023/1104_2023杭州天目里咖啡节.md): 咖啡社天目里探店活动！
+- [ALL-IN 横头街店-海宁](coffee/2023/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
 - [越南Namphong咖啡店](coffee/2024/0214_vietnam_Namphong_cafe.md): 一家很棒的越南独立咖啡馆，在海防附近旅游的朋友可以看看~
 
 ### tech / 技术部
 
 #### PhiloTech Workshop
 
-- [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
-- [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1107_Poster_with_Dalle3.md): 一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
-- [Best Practice for Club Email Management](tech/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
+- [如何使用GitHub搭建并托管社团网站](tech/2023/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
+- [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/2023/1107_Poster_with_Dalle3.md): 一个展示SOTA 文生图技术的技术demo, 分析了部分我们社团海报的制作流程。
+- [Best Practice for Club Email Management](tech/2023/1105_Best Practice for Club Email Management.md):  分析了一些主流的免费邮件分发技术。
 - [GitHub Copilot & Personal Website](tech/2024/0427_PhiloTech_Copilot/blog.md): 无论你是编程的初学者还是希望利用AI技术优化工作流的老手，这个Workshop都会为你提供提升效率的灵感。
   - [Schedule](tech/2024/0427_PhiloTech_Copilot/outline.html): 本次Workshop的日程
-- [PhiloTech Salon on the History of Artificial General Intelligence](tech/2024/0505_PhiloTech_AGI/philotech_agi_outline.pdf): 让我们来聊聊通用人工智能的历史和未来。
+- [PhiloTech Salon on the History of Artificial General Intelligence](tech/2024/0505_PhiloTech_AGI/AGI.md): 让我们来聊聊通用人工智能的历史和未来。
   - [Schedule](tech/2024/0505_PhiloTech_AGI/philotech_agi_outline.pdf): 本次沙龙的日程。
 
 
