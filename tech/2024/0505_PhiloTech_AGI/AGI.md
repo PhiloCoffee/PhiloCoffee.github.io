@@ -1,13 +1,13 @@
-# PhiloTech Salon: The History and Future of Artificial General Intelligence
+# PhiloTech Salon: The History and Future of Artificial General Intelligence(AGI)
 <!--注释: 这次是沙龙不是工作坊，两个性质不一样 -->
 - 2024.5.5
 
 - Author: Wan Yuxiang
 
-- Responsible Editor: Tong Wang
+- Editor: Tong Wang
 
 ## Overview
-Standing at the crossroads of the booming development of AI technology, we have witnessed both the successes and challenges in the past exploration of artificial intelligence. Embracing the acceleration of AI application, we look forward to the blueprint of AGI.
+Standing at the crossroads of the booming development of AI technology, we have witnessed both the successes and challenges in the past exploration of artificial intelligence. Embracing the acceleration of AI applications, we look forward to the blueprint of AGI.
 
 In this regard, PhiloCoffee Club organized a technical salon themed ***"The History and Future of AGI"*** in the multi-function hall of the library.![Sharing](./AGI.assets/Sharing.jpg)
 
@@ -24,16 +24,16 @@ Through this [guide](https://philocoffee.github.io/tech/2024/0505_PhiloTech_AGI/
 
 
 
-## The Interweaving relationship between individual educational experiences and AI development
+## The Interweaving Relationship Between Individual Educational Experiences and AI Development
 Dr. Wei Wang, ZJUI 2023 Academic Advisor, shared his own educational experiences in the context of AI development.
 
-He briefly introduced the history of AI development and then moved to his own journey. From Shandong province in China, through his studies at KTH in Sweden,  AI was a gradually popular topic, attracting countless scholars to devote their efforts.
+He briefly introduced the history of AI development and then moved to his own journey. From Shandong province in China, through his studies at KTH Royal Institute of Technology in Sweden,  AI was a gradually popular topic, attracting countless scholars to devote their efforts.
 
-The frequent teaching contents shift from KNN, SVM, and BOW to data-driven model, which reflected the rapid development of AI. 
+The frequent teaching contents shifted from the K-nearest neighbor, Support Vector Machine, and Bag-of-Words model to a data-driven model, which reflected the rapid development of AI. 
 
 ![Dr.Wang](./AGI.assets/Dr.Wang2.jpg)
 
-Dr. Wang's academic journey continued with a doctorate at UvA in Amsterdam, where he insisted on his interest in AI applications despite high peer pressure. By the way, *the coffee shops in Amsterdam don't sell coffee, but drugs.*&#x1F602;  And Interestingly, the famous ADAM optimizer in Machine Learning may comes from the '***AmsterDAM***', and besides Dr. Wang's lab, there locates the source of Python.
+Dr. Wang's academic journey continued with a doctorate at UvA in Amsterdam, where he insisted on his interest in AI applications despite high peer pressure. By the way, *the coffee shops in Amsterdam don't sell coffee, but drugs(don't buy it).*&#x1F602;  And Interestingly, the famous ADAM optimizer in Machine Learning may come from the '***AmsterDAM***', and besides Dr. Wang's lab, there locates the origins of Python.
 
 <img src="./AGI.assets/image-20240519152742642.png" alt="image-20240519152742642" style="zoom:50%;" />
 
@@ -43,7 +43,7 @@ Dr. Wang later shared his thoughts about AI in our WeChat group:
 
 > *"I have always doubted the intelligence of current artificial intelligence and adhered to the concept of weak AI cuz many models are only fitting the distribution of data. But my views have been changing recently, inspired by the one typical insect（I forgot the name）that can make complex logical behaviors but later found that it is just repeating some non-conditional reflexes. does human emotion  belong to a complex advanced non-conditional reflex? Does the neuron of living animals follow the **"quantitative change**" to **"qualitative change"?"***    ---Dr. Wang
 
-### Recommended papers by Dr. Wang:
+### Recommended Papers by Dr. Wang:
 
 >- [KAN](./AGI.assets/2404.19756v2.pdf)
 >- [Conditional DiffusionModel with Sparse Masked Modeling for Vision Decoding](./AGI.assets/Chen_Seeing_Beyond_the_Brain_Conditional_Diffusion_Model_With_Sparse_Masked_CVPR_2023_paper.pdf)
@@ -120,8 +120,9 @@ Near the end, Mr. Ching-yuen Huang, a future Ph.D. student at Rutgers University
 
 
 
-## Sum up
+## Summary
 
-This fruitful technical salon deepened our understanding of AGI through personal educational and research experiences and critical reflections from philosophy and cognitive science, echoing our club's focus.
+Reviewing the development of AI and highlighting the educational and research harvests about AI on an individual basis, this fruitful technical salon deepened our understanding of AGI, while also involving critical reflections from philosophy and cognitive science. This fusion of technology and philosophy, complemented by a relaxed salon atmosphere with beverages like coffee, perfectly aligns with the mission of our club.
+
 ![G_Picture](./AGI.assets/G_Picture.jpg)
 
