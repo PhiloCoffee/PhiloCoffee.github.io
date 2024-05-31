@@ -9,7 +9,9 @@
 ## Overview
 Standing at the crossroads of the booming development of AI technology, we have witnessed both the successes and challenges in the past exploration of artificial intelligence. Embracing the acceleration of AI applications, we look forward to the blueprint of AGI.
 
-In this regard, PhiloCoffee Club organized a technical salon themed ***"The History and Future of AGI"*** in the multi-function hall of the library.![Sharing](./AGI.assets/Sharing.jpg)
+In this regard, PhiloCoffee Club organized a technical salon themed ***"The History and Future of AGI"*** with coffee from WeLounge Cafe in the multi-function hall of the library.
+
+![Sharing](./AGI.assets/Sharing.jpg)
 
 ## Introduction
 
@@ -123,6 +125,10 @@ Near the end, Mr. Ching-yuen Huang, a future Ph.D. student at Rutgers University
 ## Summary
 
 Reviewing the development of AI and highlighting the educational and research harvests about AI on an individual basis, this fruitful technical salon deepened our understanding of AGI, while also involving critical reflections from philosophy and cognitive science. This fusion of technology and philosophy, complemented by a relaxed salon atmosphere with beverages like coffee, perfectly aligns with the mission of our club.
+
+> **"At the intersection of philosophy and AI, we find the essence of human ingenuity."**
+>
+> --ChatGPT4O
 
 ![G_Picture](./AGI.assets/G_Picture.jpg)
 
