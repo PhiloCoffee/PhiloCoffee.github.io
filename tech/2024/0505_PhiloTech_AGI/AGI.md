@@ -41,7 +41,7 @@ Dr. Wang's academic journey continued with a doctorate at UvA in Amsterdam, wher
 
 Dr. Wang later shared his thoughts about AI in our WeChat group:
 
-> *"I have always doubted the intelligence of current artificial intelligence and adhered to the concept of weak AI cuz many models are only fitting the distribution of data. But my views have been changing recently, inspired by the one typical insect（I forgot the name）that can make complex logical behaviors but later found that it is just repeating some non-conditional reflexes. does human emotion  belong to a complex advanced non-conditional reflex? Does the neuron of living animals follow the **"quantitative change**" to **"qualitative change"?"***    ---Dr. Wang
+> *"I have always doubted the intelligence of current artificial intelligence and adhered to the concept of weak AI cuz many models are only fitting the distribution of data. But my views have been changing recently, inspired by the one typical insect(probably Sphex)that can make complex logical behaviors but later found that it is just repeating some non-conditional reflexes. does human emotion  belong to a complex advanced non-conditional reflex? Does the neuron of living animals follow the **"quantitative change**" to **"qualitative change"?"***    ---Dr. Wang
 
 ### Recommended Papers by Dr. Wang:
 
