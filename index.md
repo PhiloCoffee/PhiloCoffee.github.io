@@ -11,6 +11,8 @@ PhiloCoffee is based in Zhejiang University's Haining International Campus. We f
 
 哲咖是一家坐落于浙江大学海宁国际校区的学生社团，我们专注于探索咖啡与哲学的交叉点。我们相信，在一杯美味的咖啡中，我们能够找到哲学的启示，并通过这种共享的体验，加深我们对生活和现实的理解。
 
+[换届暨社长寄语](philosophy\2024\0729_club_shift_2024\content.md): We expect to perceive another kind of PhiloCoffee Club!
+
 ### Our Mission / 我们的愿景
 
 - Explore the connection between coffee and philosophy / 探索咖啡与哲学之间的联系
@@ -42,6 +44,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 
 ### phiosophy / 哲学部
 - [爱咖啡的哲学家](philosophy/2023/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
+- [存在即是被感知](philosophy\2023\1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 - [荐书: 《咖啡与哲学——对话体哲学导论》](philosophy/2023/0910_Book-咖啡与哲学.md): 一本从美国大学生视角出发的哲学入门书。在校园的咖啡馆内，三位不同专业的同学通过对话辩论，探讨了很多有意思而值得深思的议题，很适合哲学初学者阅读。
 - [越南咖啡文化沙龙](philosophy/2024/0309_vietnam_coffee_salon/feedback.md)：咖啡与边界，一场哲咖社+模联社携手举办的咖啡分享会沙龙。
   - [Schedule](philosophy/2024/0309_vietnam_coffee_salon/content.md)：本次沙龙的提纲
@@ -64,7 +67,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [20204/06/01 ZJUI毕设展：智能手冲咖啡机](coffee/2024/0601_machine/outline.md): 来看看我们社员做的一个有趣毕设！
 
 #### coffeeshop tour / 探店纪实
-- [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
+- 
 - [Aristotle-武汉](coffee/2023/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
 - [2023杭州天目里咖啡节](coffee/2023/1104_2023杭州天目里咖啡节.md): 咖啡社天目里探店活动！
 - [ALL-IN 横头街店-海宁](coffee/2023/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
