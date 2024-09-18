@@ -11,7 +11,7 @@ PhiloCoffee is based in Zhejiang University's Haining International Campus. We f
 
 哲咖是一家坐落于浙江大学海宁国际校区的学生社团，我们专注于探索咖啡与哲学的交叉点。我们相信，在一杯美味的咖啡中，我们能够找到哲学的启示，并通过这种共享的体验，加深我们对生活和现实的理解。
 
-[换届暨社长寄语](philosophy\2024\0729_club_shift_2024\content.md): We expect to perceive another kind of PhiloCoffee Club!
+[换届暨社长寄语](philosophy/2024/0729_club_shift_2024/content.md): We expect to perceive another kind of PhiloCoffee Club!
 
 ### Our Mission / 我们的愿景
 
