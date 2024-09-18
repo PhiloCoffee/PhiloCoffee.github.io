@@ -67,7 +67,6 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [20204/06/01 ZJUI毕设展：智能手冲咖啡机](coffee/2024/0601_machine/outline.md): 来看看我们社员做的一个有趣毕设！
 
 #### coffeeshop tour / 探店纪实
-- 
 - [Aristotle-武汉](coffee/2023/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
 - [2023杭州天目里咖啡节](coffee/2023/1104_2023杭州天目里咖啡节.md): 咖啡社天目里探店活动！
 - [ALL-IN 横头街店-海宁](coffee/2023/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
