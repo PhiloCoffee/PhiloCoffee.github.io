@@ -51,6 +51,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [ “哲咖+”探秘影视飓风：视听美学之旅  ](philosophy/2024/0316_MediaStorm/feedback.md): 本次iCareer企业走访活动从影视艺术的角度出发，探索背后的美学基础。通过实地探访，我们可以知道亿点点不一样这个频道如何克服艰难险阻，创造出一个个百万播放的精彩视频。欢迎一同感受科技与美学的碰撞，探索未知的可能。
   - [没有人能够拒绝一个好故事](philosophy/2024/0316_MediaStorm/essay.md): 活动感想。
 - [Phil206 结课感想](philosophy/2024/0528_phil206/survey.md): 早期现代哲学课程同学们的有趣想法：最难与最喜欢的哲学家是谁？
+- [Philocoffee + Rosemary “浓缩意大利”文化分享会](philosophy/2024/1014_Italy_culture/Philocoffee + Rosemary “浓缩意大利”文化分享会 1a3d8906483e802aa340e6c6361d8bc4.md): 本次文化分享会以意大利美食为切入点，通过Marco先生的故事与徐立之院长的见解，探讨匠人精神、文化交融与生活哲学的深远影响。
 
 #### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动，欢迎一起看有启发性的动画电影。
