@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PhiloCoffee | Where Coffee Meets Philosophy</title>
+  <meta name="description" content="PhiloCoffee is a student club at Zhejiang University Haining exploring coffee culture, philosophy, and creative technology.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Noto+Serif+SC:wght@300;400;600;700&family=Playfair+Display:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body data-page="home">
+  <header class="site-header" id="top">
+    <nav class="nav-shell container">
+      <a class="brand" href="#top" aria-label="PhiloCoffee home">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 64 64" role="img" aria-hidden="true">
+            <path d="M16 21h26v11a13 13 0 0 1-13 13 13 13 0 0 1-13-13V21Z" fill="currentColor" opacity=".15"/>
+            <path d="M43 25h5a7 7 0 0 1 0 14h-3" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+            <path d="M16 21h27v11a13 13 0 0 1-13 13h-1a13 13 0 0 1-13-13V21Z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+            <path d="M13 49h35" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+            <path d="M25 12c-2 3 1 4-1 7" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+            <path d="M34 10c-2 3 1 4-1 7" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+          </svg>
+        </span>
+        <span class="brand-copy">
+          <span class="brand-title">PhiloCoffee</span>
+          <span class="brand-subtitle lang" data-en="Coffee • Philosophy • Culture" data-zh="咖啡 • 哲学 • 文化"></span>
+        </span>
+      </a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <div class="nav-menu" id="nav-menu">
+        <div class="nav-links">
+          <a href="#about" class="lang" data-en="About" data-zh="关于我们"></a>
+          <a href="#articles" class="lang" data-en="Articles" data-zh="文章"></a>
+          <a href="#activities" class="lang" data-en="Activities" data-zh="活动"></a>
+          <a href="#collaborations" class="lang" data-en="Collaborations" data-zh="合作"></a>
+          <a href="#join" class="lang" data-en="Join Us" data-zh="加入我们"></a>
+        </div>
+        <div class="lang-toggle" aria-label="Language switcher">
+          <button class="lang-toggle-btn" data-lang="en" type="button">EN</button>
+          <span>/</span>
+          <button class="lang-toggle-btn" data-lang="zh" type="button">中文</button>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-backdrop"></div>
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow lang" data-en="Student club at Zhejiang University Haining" data-zh="浙江大学海宁国际校区学生社团"></p>
+          <h1 class="hero-title lang" data-en="Where Coffee Meets Philosophy" data-zh="咖啡与哲学的交汇点"></h1>
+          <p class="hero-text lang" data-en="We host salons, tastings, movie nights, and workshops that turn everyday coffee culture into a space for conversation, reflection, and friendship." data-zh="我们举办沙龙、品鉴、观影夜与工作坊，让日常咖啡文化成为交流、思考与结识朋友的空间。"></p>
+          <div class="hero-actions">
+            <a class="button button-primary lang" href="#articles" data-en="Read Articles" data-zh="浏览文章"></a>
+            <a class="button button-secondary lang" href="#join" data-en="Join Us" data-zh="加入我们"></a>
+          </div>
+          <div class="hero-metrics">
+            <div class="metric">
+              <strong>3</strong>
+              <span class="lang" data-en="Departments" data-zh="内容方向"></span>
+            </div>
+            <div class="metric">
+              <strong>20+</strong>
+              <span class="lang" data-en="Articles & events" data-zh="文章与活动"></span>
+            </div>
+            <div class="metric">
+              <strong>ZJU</strong>
+              <span class="lang" data-en="International Campus at Haining" data-zh="海宁国际校区"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="poster-frame">
+            <img src="/image/poster_v3.png" alt="PhiloCoffee poster">
+          </div>
+          <div class="hero-note">
+            <span class="lang" data-en="Coffee as a daily ritual. Philosophy as a daily practice." data-zh="把咖啡当作日常仪式，把哲学当作日常实践。"></span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow lang" data-en="About Us" data-zh="关于我们"></p>
+          <h2 class="section-title lang" data-en="A club built around taste, thought, and exchange" data-zh="一个围绕品味、思考与交流建立的社团"></h2>
+          <p class="section-intro lang" data-en="PhiloCoffee is based at Zhejiang University's Haining International Campus. We use coffee as an approachable entry point into philosophy, culture, and interdisciplinary conversation." data-zh="PhiloCoffee 位于浙江大学海宁国际校区。我们以咖啡作为亲近哲学、文化与跨学科交流的入口。"></p>
+        </div>
+
+        <div class="about-grid">
+          <article class="feature-card prose-card">
+            <p class="card-label lang" data-en="Club Story" data-zh="社团简介"></p>
+            <h3 class="lang" data-en="From everyday coffee to everyday philosophy" data-zh="从日常咖啡走向日常哲学"></h3>
+            <p class="lang" data-en="We believe philosophy should not stay inside classrooms alone. A shared cup of coffee creates the kind of calm, human-scale setting where ideas become easier to test, challenge, and enjoy together." data-zh="我们相信哲学不应只停留在课堂中。一杯共享的咖啡能创造出平静、有人情味的场域，让观点更容易被讨论、碰撞，也更容易被享受。"></p>
+          </article>
+
+          <article class="feature-card mission-card">
+            <p class="card-label lang" data-en="Our Mission" data-zh="我们的使命"></p>
+            <ul class="mission-list">
+              <li>
+                <span class="mission-icon">01</span>
+                <span class="lang" data-en="Explore the connection between coffee, philosophy, and daily life." data-zh="探索咖啡、哲学与日常生活之间的联系。"></span>
+              </li>
+              <li>
+                <span class="mission-icon">02</span>
+                <span class="lang" data-en="Create an open space for international exchange and academic discussion." data-zh="创造开放的国际交流与学术讨论空间。"></span>
+              </li>
+              <li>
+                <span class="mission-icon">03</span>
+                <span class="lang" data-en="Blend hands-on brewing, cultural experience, and reflective conversation." data-zh="把手冲实践、文化体验与反思性对话结合起来。"></span>
+              </li>
+            </ul>
+          </article>
+
+          <article class="feature-card mentor-card">
+            <p class="card-label lang" data-en="Our Mentor" data-zh="指导老师"></p>
+            <div class="mentor-head">
+              <a class="mentor-avatar mentor-avatar-link" href="https://person.zju.edu.cn/stseng/781641.html" target="_blank" rel="noreferrer" aria-label="Professor Tseng profile">
+                <img src="/image/mentor-tseng.png" alt="Prof. Shao Kai Tseng portrait">
+              </a>
+              <div>
+                <h3 class="lang" data-en="Prof. Shao Kai Tseng" data-zh="曾劭愷教授"></h3>
+                <p class="mentor-role lang" data-en="Philosophy mentor and longtime ZJU-UIUC educator" data-zh="哲学导师，长期任教于 ZJU-UIUC 联合学院"></p>
+              </div>
+            </div>
+            <p class="lang" data-en="Prof. Tseng has guided generations of students through courses such as Phil101 and Phil206. His mentorship grounds the club's curiosity in serious philosophical study." data-zh="曾绍恺教授多年讲授 Phil101 与 Phil206 等课程。他的指导让社团的好奇心建立在扎实的哲学学习之上。"></p>
+            <a class="text-link lang" href="https://person.zju.edu.cn/stseng/781641.html" target="_blank" rel="noreferrer" data-en="View faculty profile" data-zh="查看教师主页"></a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-articles" id="articles">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow lang" data-en="Our Articles" data-zh="我们的文章"></p>
+          <h2 class="section-title lang" data-en="Three departments, one shared conversation" data-zh="三个方向，一场持续展开的对话"></h2>
+          <p class="section-intro lang" data-en="Browse recent writing from our philosophy, coffee, and tech teams. Each area reflects a different way the club thinks, experiments, and shares." data-zh="浏览哲学、咖啡与技术三个部门的近期内容。它们分别呈现了社团思考、实践与分享的不同方式。"></p>
+        </div>
+
+        <div class="tabs" role="tablist" aria-label="Article categories">
+          <button class="tab-button is-active" type="button" data-tab="philosophy" role="tab" aria-selected="true">
+            <span class="lang" data-en="Philosophy" data-zh="哲学部"></span>
+          </button>
+          <button class="tab-button" type="button" data-tab="coffee" role="tab" aria-selected="false">
+            <span class="lang" data-en="Coffee" data-zh="咖啡部"></span>
+          </button>
+          <button class="tab-button" type="button" data-tab="tech" role="tab" aria-selected="false">
+            <span class="lang" data-en="Tech" data-zh="技术部"></span>
+          </button>
+        </div>
+
+        <div class="article-panel">
+          <div id="home-article-grid" class="card-grid"></div>
+          <div class="section-cta">
+            <a id="home-article-link" class="text-link" href="/philosophy/">
+              <span class="lang" data-en="View all articles" data-zh="查看全部文章"></span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="activities">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow lang" data-en="Activities" data-zh="活动"></p>
+          <h2 class="section-title lang" data-en="Programs designed for curiosity and community" data-zh="为好奇心与社群感而设计的活动"></h2>
+        </div>
+
+        <div class="activities-grid">
+          <article class="activity-card">
+            <span class="activity-icon">◌</span>
+            <h3 class="lang" data-en="Philosophy Salons" data-zh="哲学沙龙"></h3>
+            <p class="lang" data-en="Small-group discussions on classic ideas, contemporary questions, and the philosophy of everyday life." data-zh="围绕经典思想、当代问题与日常生活哲学展开的小组讨论。"></p>
+          </article>
+          <article class="activity-card">
+            <span class="activity-icon">✦</span>
+            <h3 class="lang" data-en="Coffee Tastings" data-zh="咖啡品鉴"></h3>
+            <p class="lang" data-en="Taste different origins, processing styles, and brewing approaches while learning how flavor shapes memory and culture." data-zh="品尝不同产地、处理法与冲煮方式的咖啡，感受风味如何连接记忆与文化。"></p>
+          </article>
+          <article class="activity-card">
+            <span class="activity-icon">◳</span>
+            <h3 class="lang" data-en="Movie Nights" data-zh="观影夜"></h3>
+            <p class="lang" data-en="Watch films with partner clubs, then turn the screening into a conversation about aesthetics, ethics, and imagination." data-zh="与合作社团一起观影，再把电影延伸为关于美学、伦理与想象力的讨论。"></p>
+          </article>
+          <article class="activity-card">
+            <span class="activity-icon">◎</span>
+            <h3 class="lang" data-en="Cafe Tours" data-zh="探店活动"></h3>
+            <p class="lang" data-en="Visit independent cafes in different cities to study atmosphere, hospitality, design, and local coffee culture." data-zh="走进不同城市的独立咖啡馆，观察空间氛围、待客之道、设计与地方咖啡文化。"></p>
+          </article>
+          <article class="activity-card">
+            <span class="activity-icon">▣</span>
+            <h3 class="lang" data-en="Tech Workshops" data-zh="技术工作坊"></h3>
+            <p class="lang" data-en="Experiment with websites, AI tools, club communication, and digital storytelling for student organizations." data-zh="围绕网站、AI 工具、社团协作与数字表达进行实践型分享。"></p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="collaborations">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow lang" data-en="Collaborations" data-zh="合作社团"></p>
+          <h2 class="section-title lang" data-en="We grow through shared events and shared audiences" data-zh="在共同策划与共同交流中成长"></h2>
+        </div>
+
+        <div class="partner-grid">
+          <article class="partner-card">
+            <img src="/zju_coffee_club_link.png" alt="ZJU Coffee Club QR code">
+            <div class="partner-copy">
+              <h3>ZJU Coffee Club</h3>
+              <p class="lang" data-en="A campus-wide coffee community focused on tasting, coffee culture, and public education around brewing." data-zh="浙江大学学生咖啡社，聚焦品鉴、咖啡文化传播与冲煮科普。"></p>
+            </div>
+          </article>
+          <article class="partner-card">
+            <img src="/image/poita_art_club_link.png" alt="POITA Art Club QR code">
+            <div class="partner-copy">
+              <h3>POITA Art Club</h3>
+              <p class="lang" data-en="Our frequent collaborator for movie nights, visual culture events, and art-centered conversations." data-zh="我们在观影夜、视觉文化活动与艺术主题讨论中的常见合作伙伴。"></p>
+            </div>
+          </article>
+          <article class="partner-card">
+            <div class="partner-placeholder" aria-hidden="true">
+              <span class="lang" data-en="Image coming soon" data-zh="图片待补充"></span>
+            </div>
+            <div class="partner-copy">
+              <h3>Philosophy+ Association</h3>
+              <p class="lang" data-en="A philosophy-focused student group that expands our conversations across disciplines and campuses." data-zh="以哲学为核心的学生组织，帮助我们把讨论延伸到更多学科与校园。"></p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section join-section" id="join">
+      <div class="container join-grid">
+        <div>
+          <p class="eyebrow eyebrown-light lang" data-en="Join PhiloCoffee" data-zh="加入 PhiloCoffee"></p>
+          <h2 class="section-title light lang" data-en="Bring your curiosity, not prior expertise" data-zh="带着好奇心来，不必先成为专家"></h2>
+          <p class="join-text lang" data-en="Whether you care most about coffee, philosophy, film, design, or building things with friends, there is room for you here." data-zh="无论你更关心咖啡、哲学、电影、设计，还是和朋友一起做点什么，这里都欢迎你。"></p>
+        </div>
+        <div class="join-cards">
+          <article class="join-card">
+            <p class="card-label light lang" data-en="Email" data-zh="邮箱"></p>
+            <a href="mailto:jie.20@intl.zju.edu.cn">jie.20@intl.zju.edu.cn</a>
+          </article>
+          <article class="join-card">
+            <p class="card-label light lang" data-en="GitHub" data-zh="GitHub"></p>
+            <a href="https://github.com/PhiloCoffee/PhiloCoffee.github.io/issues" target="_blank" rel="noreferrer" class="lang" data-en="Open an issue" data-zh="提交 Issue"></a>
+          </article>
+          <article class="join-card">
+            <p class="card-label light lang" data-en="What you'll find" data-zh="你会收获"></p>
+            <p class="lang" data-en="Reading groups, tasting sessions, city cafe visits, and conversations that stay with you after the cup is empty." data-zh="读书会、品鉴活动、城市探店，以及喝完咖啡之后仍会留在你心里的讨论。"></p>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="footer-brand">PhiloCoffee / 哲咖</p>
+        <p class="footer-copy lang" data-en="A bilingual club website for coffee, philosophy, and campus culture." data-zh="一个关于咖啡、哲学与校园文化的双语社团网站。"></p>
+      </div>
+      <div class="footer-links">
+        <a href="#about" class="lang" data-en="About" data-zh="关于"></a>
+        <a href="#articles" class="lang" data-en="Articles" data-zh="文章"></a>
+        <a href="#join" class="lang" data-en="Join Us" data-zh="加入我们"></a>
+        <a href="https://github.com/PhiloCoffee/PhiloCoffee.github.io" target="_blank" rel="noreferrer" class="lang" data-en="Open source on GitHub" data-zh="GitHub 开源"></a>
+      </div>
+      <div class="footer-meta">
+        <p>© <span id="year"></span> PhiloCoffee Club</p>
+        <p class="lang" data-en="English / 中文 available on every page" data-zh="每一页均支持 English / 中文"></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/script.js"></script>
+</body>
+</html>

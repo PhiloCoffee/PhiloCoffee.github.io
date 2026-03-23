@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Article | PhiloCoffee</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Noto+Serif+SC:wght@300;400;600;700&family=Playfair+Display:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body data-page="article">
+  <header class="site-header" id="top">
+    <nav class="nav-shell container">
+      <a class="brand" href="/" aria-label="PhiloCoffee home">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 64 64" role="img" aria-hidden="true">
+            <path d="M16 21h26v11a13 13 0 0 1-13 13 13 13 0 0 1-13-13V21Z" fill="currentColor" opacity=".15"/>
+            <path d="M43 25h5a7 7 0 0 1 0 14h-3" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+            <path d="M16 21h27v11a13 13 0 0 1-13 13h-1a13 13 0 0 1-13-13V21Z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+            <path d="M13 49h35" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+          </svg>
+        </span>
+        <span class="brand-copy">
+          <span class="brand-title">PhiloCoffee</span>
+          <span class="brand-subtitle lang" data-en="Article Reader" data-zh="文章阅读页"></span>
+        </span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="nav-menu" id="nav-menu">
+        <div class="nav-links">
+          <a href="/" class="lang" data-en="Home" data-zh="首页"></a>
+          <a href="/philosophy/" class="lang" data-en="Philosophy" data-zh="哲学部"></a>
+          <a href="/coffee/" class="lang" data-en="Coffee" data-zh="咖啡部"></a>
+          <a href="/tech/" class="lang" data-en="Tech" data-zh="技术部"></a>
+        </div>
+        <div class="lang-toggle">
+          <button class="lang-toggle-btn" data-lang="en" type="button">EN</button>
+          <span>/</span>
+          <button class="lang-toggle-btn" data-lang="zh" type="button">中文</button>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="article-shell">
+      <div class="container">
+        <div class="article-reader-card">
+          <div class="article-reader-meta">
+            <a id="article-back-link" class="text-link" href="/">
+              <span class="lang" data-en="Back to site" data-zh="返回网站"></span>
+            </a>
+            <p id="article-source" class="article-source"></p>
+          </div>
+          <article id="article-content" class="article-prose">
+            <p class="lang" data-en="Loading article..." data-zh="正在加载文章..."></p>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div><p class="footer-brand">PhiloCoffee / 哲咖</p></div>
+      <div class="footer-links">
+        <a href="/" class="lang" data-en="Home" data-zh="首页"></a>
+        <a href="https://github.com/PhiloCoffee/PhiloCoffee.github.io" target="_blank" rel="noreferrer" class="lang" data-en="Open source on GitHub" data-zh="GitHub 开源"></a>
+      </div>
+      <div class="footer-meta"><p>© <span id="year"></span> PhiloCoffee Club</p></div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>
