@@ -163,9 +163,9 @@ Interested in coffee, philosophy, or both? Join us and contribute to an energeti
 
 ### 发送邮件即可加入：
 
-如果你想加入我们，或者有任何问题，欢迎通过电子邮件：[jie.20@intl.zju.edu.cn](jie.20@intl.zju.edu.cn)或通过[GitHub issue](https://github.com/PhiloCoffee/PhiloCoffee.github.io/issues)联系我们。
+如果你想加入我们，或者有任何问题，欢迎通过电子邮件：[everloom_agi@outlook.com](mailto:everloom_agi@outlook.com)或通过[GitHub](https://github.com/PhiloCoffee)联系我们。
 
-[Contact Us: jie.20@intl.zju.edu.cn](jie.20@intl.zju.edu.cn) 
+[Contact Us: everloom_agi@outlook.com](mailto:everloom_agi@outlook.com) 
 
 
 ### 加入我们，你将能:
